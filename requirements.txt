@@ -1,0 +1,5 @@
+numpy==1.24.3
+opencv_python==4.8.0.74
+roslib==1.15.8
+rospy==1.16.0
+tensorflow==2.13.0
