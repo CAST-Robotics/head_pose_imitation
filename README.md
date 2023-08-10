@@ -1,7 +1,6 @@
 # Head Pose Imitation
 <p align="center">
-<video src="media/imitation.mp4" controls="controls">
-</video>
+<img src="media/imitation.gif"/>
 </p>
 
 This is a ROS package designed for head pose imitation on the Surena V humanoid robot. 
